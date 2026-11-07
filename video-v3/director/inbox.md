@@ -58,4 +58,4 @@ P: mail floods past sleep (1). A: spam hides
 real notes (2-3). S: sort, burn, zero (4-10).
 Proof: [MEASURED sends sorted]. End card:
 `npm i agentic-inbox` plus
-github.com/pooriaarab/agentic-inbox. No plea.
+github.com/itsryanarmani/agentic-inbox. No plea.

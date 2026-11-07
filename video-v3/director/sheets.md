@@ -60,4 +60,4 @@ P: sheet and store drift (1). A: errors hide
 (2-3). S: mirror holds true (4-10). Proof:
 [MEASURED synced rows]. End card:
 `npm i agentic-sheets` plus
-github.com/pooriaarab/agentic-sheets. No plea.
+github.com/itsryanarmani/agentic-sheets. No plea.

@@ -69,7 +69,7 @@ world. Same for the 60s trio, 50s pair, 90s trio,
   (trends file, Oct 10 2026). Never name a firm as
   breached unless it is public record.
 - End card: `npm i agentic-<pack>` plus
-  `github.com/pooriaarab/agentic-<pack>`, held 4 s
+  `github.com/itsryanarmani/agentic-<pack>`, held 4 s
   minimum. No plea, no tagline, no thanks. Stop.
 - Audio: voice over music at 0.26 duck, SFX at or
   under 0.35 under voice, -16 to -14 LUFS, peak

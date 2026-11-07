@@ -63,7 +63,7 @@ Each clip costs about $0.05–0.09 per second, with a minimum per clip. Render o
 ## Truth rule (added after foxbench v3)
 - Never present a scripted or test agent as a real one. Label them "scripted" or "test agent".
 
-- No invented URLs or domains. Show only github.com/pooriaarab/<repo> and npm names.
+- No invented URLs or domains. Show only github.com/itsryanarmani/<repo> and npm names.
 
 ## Round 3: owner feedback, with the WHY (apply the why to every future video)
 - **Solid, consistent backgrounds** (foxbridge). WHY: a busy or shifting background competes with the graphic, so the eye cannot find the one idea. Use one solid ground per video and let the graphic carry the contrast.

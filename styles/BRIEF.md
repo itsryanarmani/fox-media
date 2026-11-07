@@ -11,7 +11,7 @@ Make one launch video per assigned repo. Personal project, personal keys only.
 
 ## Rules
 - Exactly the style assigned to you per repo. Write each new style's spec to ~/Documents/Personal/fox-media/styles/<style>.md: ground, type pair, text entrances, seams, pacing, music prompt, SFX cue map, copy pattern.
-- 20 to 26 s. Shots 1 to 1.5 s. Cut on detected beats (`npx hyperframes beats`). Arc: hook in outcome language, value by beat two, demo on the musical drop, proof from measured numbers only (from the repo's tests/artifacts — never invent a number), end card with `npm i <npm name>` and the repo URL github.com/pooriaarab/<repo>.
+- 20 to 26 s. Shots 1 to 1.5 s. Cut on detected beats (`npx hyperframes beats`). Arc: hook in outcome language, value by beat two, demo on the musical drop, proof from measured numbers only (from the repo's tests/artifacts — never invent a number), end card with `npm i <npm name>` and the repo URL github.com/itsryanarmani/<repo>.
 - Product names: never call a product "Muse" or "Firefox"; you may say "for Firefox" / "runs in Firefox". No "demo" in on-screen product names.
 - npm names: foxden -> foxden-sandbox, foxlink -> foxlink-oauth, foxpay -> foxpay-agent; others match the repo name (check package.json).
 - Music: WaveSpeed key in ~/Documents/Personal/.secrets/wavespeed.env (source it inside the command; never print it). Two instrumental variants per video: elevenlabs/music (music_length_ms, force_instrumental) or minimax/music-2.6 (is_instrumental). Pick by per-second loudness curve (ffmpeg ebur128). SFX on cuts, clicks, slams. HARD CAP: $0.30 of WaveSpeed per video; the shared balance is about $6 for all 19. Check the balance before each call; stop and report if it drops under $0.50.

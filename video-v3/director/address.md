@@ -61,4 +61,4 @@ P: bad addresses kill mail (1). A: jams pile
 (2-3). S: verify, then send (4-10). Proof:
 [MEASURED fixes on repo fixture]. End card:
 `npm i agentic-address` plus
-github.com/pooriaarab/agentic-address. No plea.
+github.com/itsryanarmani/agentic-address. No plea.

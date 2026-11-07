@@ -59,4 +59,4 @@ P: email vanishes unread (1). A: noise drowns
 signal (2-3). S: cards land and stay (4-10).
 Proof: [MEASURED cards mailed]. End card:
 `npm i agentic-postcard` plus
-github.com/pooriaarab/agentic-postcard. No plea.
+github.com/itsryanarmani/agentic-postcard. No plea.

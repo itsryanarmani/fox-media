@@ -58,4 +58,4 @@ P: flat voice ruins words (1). A: retakes burn
 the session (2-3). S: one route voices right
 (4-10). Proof: [MEASURED voice count]. End
 card: `npm i agentic-speech` plus
-github.com/pooriaarab/agentic-speech. No plea.
+github.com/itsryanarmani/agentic-speech. No plea.

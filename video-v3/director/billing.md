@@ -60,4 +60,4 @@ P: invoices sit unpaid (1). A: chasing eats
 Fridays (2-3 + founder past). S: money lands
 itself (4-10). Proof: [MEASURED paid count].
 End card: `npm i agentic-billing` plus
-github.com/pooriaarab/agentic-billing. No plea.
+github.com/itsryanarmani/agentic-billing. No plea.

@@ -26,4 +26,4 @@ First used on foxnotify (`work/foxnotify/build.py`, 24.6 s). Black brush ink on 
 | 4 | 11.02 | 3.12 s | "Urgent gets through." A red-sealed "Approve?" passes the moon and reaches a shoulder: two red tap ripples. | E2E: quiet hours let the urgent notice through; Firefox shows the urgent notice only. |
 | 5 | 14.14 | 3.12 s | "One summary, later." The moon sets, a sun rises; three held notices fold into "3 updates from your agent". | E2E: the alarm shows one digest of the three queued notices, with that exact text. |
 | 6 | 17.27 | 3.12 s | "Click. Right tab." A "Sign-in needed" notice is clicked; the red underline moves to the task tab. | E2E: the click makes the task tab active while another tab was in front. |
-| 7 | 20.39 | 4.21 s | foxnotify, `npm i foxnotify`, github.com/pooriaarab/foxnotify, the moon. | End card. |
+| 7 | 20.39 | 4.21 s | foxnotify, `npm i foxnotify`, github.com/itsryanarmani/foxnotify, the moon. | End card. |

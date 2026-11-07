@@ -61,4 +61,4 @@ P: blank page stalls (1). A: rewrite loop burns
 hours (2-3). S: one pass drafts clean (4-10).
 Proof: [MEASURED seconds on repo fixture].
 End card: `npm i agentic-write` plus
-github.com/pooriaarab/agentic-write. No plea.
+github.com/itsryanarmani/agentic-write. No plea.

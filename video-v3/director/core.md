@@ -53,5 +53,5 @@ P: agents run free (shots 1-2). A: chaos wants
 order (shot 2). S: core guards each run (3-6).
 Proof: [MEASURED guard count from core tests].
 End card: `npm i agentic-core` plus
-github.com/pooriaarab/agentic-core, hold 2 s of
+github.com/itsryanarmani/agentic-core, hold 2 s of
 the 12. No plea. Cut dead at 12.0.

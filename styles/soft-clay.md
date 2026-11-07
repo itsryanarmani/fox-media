@@ -27,4 +27,4 @@ First used on foxvoice (`work/foxvoice/build.py`, 24.4 s). Everything looks like
 | 4 | 10.36 | 4.01 s | "foxvoice" / "Speech that stays on your device." | The promise. |
 | 5 | 14.37 | 3.34 s | A mint bubble ("private mode") over a laptop; a call to the cloud stops at the bubble wall; the cloud reads "0 requests". | The E2E cloud trap server got 0 requests in private mode. |
 | 6 | 17.71 | 2.68 s | The orb, a speaker and sound arcs. "It talks back." | `speak()` reads the reply with a voice on the device. |
-| 7 | 20.39 | 4.01 s | foxvoice, `npm i foxvoice`, github.com/pooriaarab/foxvoice. | End card. |
+| 7 | 20.39 | 4.01 s | foxvoice, `npm i foxvoice`, github.com/itsryanarmani/foxvoice. | End card. |

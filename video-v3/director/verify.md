@@ -61,4 +61,4 @@ P: bad addresses ship (1). A: each burns trust
 (2-3 + founder past). S: checks run first
 (4-10). Proof: [MEASURED bad-address stops].
 End card: `npm i agentic-verify` plus
-github.com/pooriaarab/agentic-verify. No plea.
+github.com/itsryanarmani/agentic-verify. No plea.

@@ -59,4 +59,4 @@ P: dupes split the truth (1). A: reps chase
 three cards (2-3). S: one card wins (4-10).
 Proof: [MEASURED merges]. End card:
 `npm i agentic-crm` plus
-github.com/pooriaarab/agentic-crm. No plea.
+github.com/itsryanarmani/agentic-crm. No plea.

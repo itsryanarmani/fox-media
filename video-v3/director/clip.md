@@ -61,4 +61,4 @@ P: edits eat weekends (1). A: deadline snaps
 shut (2-3). S: one render cuts all (4-10).
 Proof: [MEASURED render seconds, repo e2e].
 End card: `npm i agentic-clip` plus
-github.com/pooriaarab/agentic-clip. No plea.
+github.com/itsryanarmani/agentic-clip. No plea.
