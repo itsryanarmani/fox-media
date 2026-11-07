@@ -59,4 +59,4 @@ P: unknown calls flood (1). A: screening eats
 hours (2-3 + founder past). S: good calls pass,
 scams die (4-10). Proof: [MEASURED screened].
 End card: `npm i agentic-phone` plus
-github.com/pooriaarab/agentic-phone. No plea.
+github.com/itsryanarmani/agentic-phone. No plea.

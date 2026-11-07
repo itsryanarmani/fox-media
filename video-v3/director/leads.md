@@ -59,4 +59,4 @@ P: hot leads hide in noise (1). A: sellers
 guess wrong (2-3). S: scores rank true (4-10).
 Proof: [MEASURED top-lead precision]. End card:
 `npm i agentic-leads` plus
-github.com/pooriaarab/agentic-leads. No plea.
+github.com/itsryanarmani/agentic-leads. No plea.

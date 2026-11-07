@@ -59,4 +59,4 @@ P: comments pile overnight (1). A: each needs
 a human touch (2-3). S: drafts wait, you tap
 (4-10). Proof: [MEASURED replies approved].
 End card: `npm i agentic-reply` plus
-github.com/pooriaarab/agentic-reply. No plea.
+github.com/itsryanarmani/agentic-reply. No plea.

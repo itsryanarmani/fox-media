@@ -27,4 +27,4 @@ First used on foxpass (`work/foxpass/build.py`, 25.4 s). A 1920s hotel lobby at 
 | 5 | 12.84 | 3.75 s | "You open the lock." The password field is outlined; you type; the padlock opens and turns jade. | foxpass outlines the field and hands the step to you. |
 | 6 | 16.59 | 2.14 s | The leaves swing open; the orb goes through; "BALANCE $1,204.56", "test agent, sample bank page". | The E2E agent goes on after sign-in and reads the balance. |
 | 7 | 18.73 | 3.75 s | "The agent never sees it." YOU TYPE: dots. THE AGENT READS: [redacted]. | E2E R1/R2/L1: the agent's read and the planner context hold no password and no code. |
-| 8 | 22.49 | 2.91 s | foxpass, `npm i foxpass`, github.com/pooriaarab/foxpass, an open door. | End card. |
+| 8 | 22.49 | 2.91 s | foxpass, `npm i foxpass`, github.com/itsryanarmani/foxpass, an open door. | End card. |

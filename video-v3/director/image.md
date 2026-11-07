@@ -61,4 +61,4 @@ P: prompt each model by hand (1). A: tabs pile
 (2-3). S: one prompt routes all (4-10). Proof:
 [MEASURED route count on repo fixture]. End
 card: `npm i agentic-image` plus
-github.com/pooriaarab/agentic-image. No plea.
+github.com/itsryanarmani/agentic-image. No plea.

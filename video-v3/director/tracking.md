@@ -59,4 +59,4 @@ P: parcels go dark past label (1). A: wrong
 belts lose them (2-3). S: dots stay seen
 (4-10). Proof: [MEASURED tracked stops]. End
 card: `npm i agentic-tracking` plus
-github.com/pooriaarab/agentic-tracking. No plea.
+github.com/itsryanarmani/agentic-tracking. No plea.

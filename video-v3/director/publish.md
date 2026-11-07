@@ -57,4 +57,4 @@ P: post five times by hand (1). A: tabs and
 times slip (2-3). S: one queue ships all
 (4-10). Proof: [MEASURED posts per run]. End
 card: `npm i agentic-publish` plus
-github.com/pooriaarab/agentic-publish. No plea.
+github.com/itsryanarmani/agentic-publish. No plea.

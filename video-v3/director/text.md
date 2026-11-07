@@ -57,4 +57,4 @@ P: threads wait too long (1). A: buyers leave
 (2-3). S: answers land fast (4-10). Proof:
 [MEASURED threads answered]. End card:
 `npm i agentic-text` plus
-github.com/pooriaarab/agentic-text. No plea.
+github.com/itsryanarmani/agentic-text. No plea.

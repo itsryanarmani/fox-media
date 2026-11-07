@@ -62,4 +62,4 @@ P: brand drifts per tool (1). A: hand fixes each
 time (2-3). S: one config locks all (4-10).
 Proof: [MEASURED pack count sharing one config].
 End card: `npm i agentic-brand` plus
-github.com/pooriaarab/agentic-brand. No plea.
+github.com/itsryanarmani/agentic-brand. No plea.

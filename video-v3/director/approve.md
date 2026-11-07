@@ -61,4 +61,4 @@ P: agents act past you (1). A: each risk lands
 on your name (2-3 + founder past). S: one tap
 gates all (4-10). Proof: [MEASURED gated acts].
 End card: `npm i agentic-approve` plus
-github.com/pooriaarab/agentic-approve. No plea.
+github.com/itsryanarmani/agentic-approve. No plea.
